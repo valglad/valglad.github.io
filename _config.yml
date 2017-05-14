@@ -10,7 +10,7 @@ tagline:             'gsoc, sympy, computational group theory'
 description:         'A blog about my gsoc project developing the group theory module for sympy'
 url:                 http://valglad.github.io
 baseurl:             'http://valglad.github.io'
-gems:                [jekyll-paginate]
+gems:                [jekyll-paginate,jekyll-feed]
 paginate:            5
 
 # About/contact
