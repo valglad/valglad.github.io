@@ -2,13 +2,13 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-#relative_permalinks: false
+relative_permalinks: false
 
 # Setup
 title:               SymPy Group Theory (GSoC 2017)
 tagline:             'gsoc, sympy, computational group theory'
 description:         'A blog about my gsoc project developing the group theory module for sympy'
-url:                 http://valglad.github.io
+url:                 'http://valglad.github.io'
 baseurl:             ''
 gems:                [jekyll-paginate,jekyll-feed]
 paginate:            5
