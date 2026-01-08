@@ -12,6 +12,7 @@ url:                 'http://valglad.github.io'
 baseurl:             ''
 gems:                [jekyll-paginate,jekyll-feed]
 paginate:            5
+paginate-path:       '/gsoc/:num/'
 
 # About/contact
 author:
