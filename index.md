@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Home
+title: Dr Val Gladkova, mathematician
 ---
 Hello, I am Val Gladkova, a mathematician currently based at the University of Manchester, UK. My research broadly lies in the area of arithmetic combinatorics, although I also have an interest in combinatorics generally as well as in related fields such as cryptography, algorithms, and complexity theory.
 
