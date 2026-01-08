@@ -15,9 +15,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Valeriia Gladkova
+  name:              Val Gladkova
   url:               
-  email:             valeriia.gladkova@gmail.com
+  email:
 
 # Custom vars
 version:             1.0.0
