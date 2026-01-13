@@ -9,7 +9,7 @@ title:               'Dr V Gladkova'
 tagline:             'mathematician etc.'
 description:         'Not much here yet but will keep updating'
 url:                 'http://valglad.github.io'
-baseurl:             '/gsoc/' # blog path
+baseurl:             ''
 gems:                [jekyll-paginate,jekyll-feed]
 paginate:            5
 paginate_path:       '/gsoc/:num/'
